@@ -2,7 +2,7 @@
 - 👀 I’m interested in devolping websites
 - 🌱 I’m currently learning Git & Github
 - 💞️ I’m looking to collaborate on Git
--- 📫 narmeenmajeed22@gmail.com 
+- 📫 narmeenmajeed22@gmail.com 
 
 <!---
 narmeenmajeed/narmeenmajeed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
