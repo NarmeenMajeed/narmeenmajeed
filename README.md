@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @narmeenmajeed
 - 👀 I’m interested in devolping websites
-- 🌱 I’m currently learning Git & Github
+- 🌱 I’m currently learning Git, Github & VS Code
 - 💞️ I’m looking to collaborate on Git
 - 📫 narmeenmajeed22@gmail.com 
 
